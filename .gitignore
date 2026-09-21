@@ -1,0 +1,4 @@
+data/raw/
+data/f1.db
+.ipynb_checkpoints/
+__pycache__/
